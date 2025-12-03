@@ -17,8 +17,8 @@ BOARD_BOOTLOADER_IN_UPDATE_PACKAGE := true
 BOARD_SUPER_IMAGE_IN_UPDATE_PACKAGE := true
 
 # HIDL
-ODM_MANIFEST_SKUS += xagain
-ODM_MANIFEST_XAGAIN_FILES := $(DEVICE_PATH)/sku/manifest_xagain.xml
+ODM_MANIFEST_SKUS += xaga-CN
+ODM_MANIFEST_XAGA-CN_FILES := $(DEVICE_PATH)/sku/manifest_xaga-CN.xml
 
 # Kernel
 BOARD_VENDOR_KERNEL_MODULES_LOAD := $(strip $(shell cat $(DEVICE_PATH)/modules/modules.load))
