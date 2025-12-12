@@ -2,7 +2,7 @@ AVIUM_BUILDTYPE := Unofficial
 AVIUM_VERSION_APPEND_TIME_OF_DAY := false
 
 # GMS
-WITH_GMS := false
+WITH_GMS := true
 TARGET_GMS_TYPE := FULL
 
 # Google IMS
