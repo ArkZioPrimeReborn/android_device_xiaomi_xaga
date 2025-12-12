@@ -9,6 +9,7 @@ dtbo.img;AB
 gpueb.img;AB
 gz.img;AB
 lk.img;AB
+logo.img;AB
 mcf_ota.img;AB
 mcupm.img;AB
 md1img.img;AB
@@ -19,3 +20,4 @@ spmfw.img;AB
 sspm.img;AB
 tee.img;AB
 vcp.img;AB
+preloader_eng.bin:preloader_raw.img;AB
