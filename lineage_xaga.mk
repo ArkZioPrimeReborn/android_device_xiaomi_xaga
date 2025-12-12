@@ -36,3 +36,6 @@ PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 PRODUCT_BUILD_PROP_OVERRIDES += \
     BuildFingerprint=Redmi/xaga/xaga:14/UP1A.231005.007/OS2.0.12.0.ULOMIXM:user/release-keys \
     DeviceProduct=$(PRODUCT_SYSTEM_NAME)
+
+# Enable AviumUI configs
+include device/xiaomi/xaga/avium_common.mk

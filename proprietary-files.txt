@@ -421,8 +421,8 @@ vendor/lib64/vendor.mediatek.hardware.camera.postproc@1.0.so
 vendor/lib64/vendor.mediatek.hardware.camera.security@1.0.so
 
 # Camera (Algo Engine) - from gale
-vendor/lib64/libmialgoengine.so|0e1c70fb6220154096a9e8c842d20485f4d477a8
-vendor/lib64/libmialgoengine2.so|17f87c6aaf130aa3520eecfd4ee45abd796853da
+vendor/lib64/libmialgoengine.so
+vendor/lib64/libmialgoengine2.so
 
 # Camera (Configs)
 vendor/etc/camera/ldc/intsense_config_undistort.bin
@@ -647,7 +647,7 @@ vendor/etc/thermal-videochat.conf
 vendor/etc/thermald-devices.conf
 
 # Thermal configs - modified
-vendor/etc/thermal-per-normal.conf|393eb04bf1e2ac6d05da5ac7cab0612ffc799ad6
+vendor/etc/thermal-per-normal.conf
 
 # Touchscreen Firmware (novatek)
 vendor/firmware/novatek_nt36672e_l16_fw01.bin
